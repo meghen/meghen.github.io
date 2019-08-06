@@ -1,6 +1,7 @@
-body {
-
+head {
+  background-color: black;
 }
-h3
-
+div.class {
+  color: white;
+  font-family: Balham, 'Century Gothic', sans-serif;
 }
