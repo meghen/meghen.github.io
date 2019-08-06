@@ -1,9 +1,7 @@
-head {
-  background-color: black;
-}
-div.class {
+#title {
   color: white;
   font-family: Balham, 'Century Gothic', sans-serif;
+  background-color: black;
 }
 #col {
   column-count: 2;
