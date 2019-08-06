@@ -5,3 +5,7 @@ div.class {
   color: white;
   font-family: Balham, 'Century Gothic', sans-serif;
 }
+#col {
+  column-count: 2;
+  column-rule: 2px solid #005900;
+}
