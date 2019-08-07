@@ -15,7 +15,8 @@ img {
   column-count: 2;
   column-rule: 2px solid #cce5cc;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
+  vertical-align: text-top;
 }
 #profSkill {
-  breakinside: avoid;
+  break-inside: avoid;
 }
