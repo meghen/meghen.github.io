@@ -1,8 +1,6 @@
 .title {
-  color: white;
+  color: green;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
-  background-color: black;
-  background-height: 100px;
   text-align: center;
 }
 img {
@@ -10,12 +8,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  position: absolute;
-  z-index: 1;
 }
 #col {
   column-count: 2;
   column-rule: 2px solid #cce5cc;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
-  
 }
