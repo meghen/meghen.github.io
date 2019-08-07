@@ -7,7 +7,14 @@
   border-width: 2px;
   border-color: #cce5cc;
 }
+
+img {
+  border-radius: 50%;
+}
+
 #col {
   column-count: 2;
   column-rule: 2px solid #cce5cc;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
+  
 }
