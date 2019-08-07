@@ -3,6 +3,9 @@
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   background-color: black;
   text-align: center;
+}
+
+h1 {
   border-style: solid;
   border-width: 2px;
   border-color: #cce5cc;
