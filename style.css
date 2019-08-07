@@ -1,9 +1,13 @@
 .title {
-  color: green;
-  font-family: Balham, 'Century Gothic', sans-serif;
+  color: white;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   background-color: black;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #cce5cc;
 }
 #col {
   column-count: 2;
-  column-rule: 2px solid #005900;
+  column-rule: 2px solid #cce5cc;
 }
