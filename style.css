@@ -1,7 +1,8 @@
 .title {
-  color: green;
+  color: white;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   text-align: center;
+  background-color: black;
 }
 img {
   border-radius: 50%;
