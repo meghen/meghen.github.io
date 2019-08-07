@@ -2,9 +2,9 @@
   color: white;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   background-color: black;
-  background-height:400px;
+  background-height:250px;
   text-align: center;
-  vertical-align: top;
+  vertical-align: text-top;
 }
 img {
   border-radius: 50%;
