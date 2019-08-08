@@ -11,10 +11,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
-  height: 200;
-  width: 200;
-  content:url(https://get.pxhere.com/photo/dog-pet-brown-mammal-race-dogs-vertebrate-dog-breed-barbet-cavapoo-labradoodle-miniature-poodle-goldendoodle-cockapoo-standard-poodle-toy-poodle-havanese-dog-like-mammal-carnivoran-schnoodle-dandie-dinmont-terrier-dog-crossbreeds-boykin-spaniel-cavachon-bolonka-poodle-crossbreed-field-spaniel-lagotto-romagnolo-pumi-portuguese-water-dog-spanish-water-dog-american-water-spaniel-irish-water-spaniel-1138216.jpg);
-}
+  }
 #col {
   column-count: 2;
   column-rule: 2px solid #cce5cc;
