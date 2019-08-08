@@ -20,5 +20,5 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
 }
 .col firstcol {
-  white-space: nowrap;
+  overflow: scroll;
 }
