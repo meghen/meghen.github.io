@@ -21,10 +21,3 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
-.firstcol {
-  display: inline-flex;
-  width: 700px;
-}
-.secondcol {
-  width: 700px;
-}
