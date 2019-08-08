@@ -21,7 +21,7 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
-.col firstcol {
+.firstcol {
   overflow: scroll;
   display: inline-flex;
   width: 700px;
