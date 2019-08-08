@@ -18,5 +18,5 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
 }
 .col ul {
-  break-inside: avoid;
+  break-inside: avoid-column;
 }
