@@ -20,7 +20,5 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
 }
 .col firstcol {
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  break-inside: avoid-column;
+  white-space: nowrap;
 }
