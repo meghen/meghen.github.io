@@ -21,6 +21,5 @@ img {
 }
 .col firstcol {
   overflow: scroll;
-  -moz-overflow: scroll;
-  -moz-display: inline-block;
+  display: inline-flex;
 }
