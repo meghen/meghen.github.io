@@ -18,5 +18,7 @@
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
 }
 .col ul {
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
   break-inside: avoid-column;
 }
