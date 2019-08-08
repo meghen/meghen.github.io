@@ -1,13 +1,11 @@
 .title {
   color: white;
-  font-family: monospace;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   text-align: center;
   background-color: black;
   height: 300px;
   overflow: hidden;
   white-space: nowrap;
-  margin-left: auto;
-  margin-right: auto;
 }
 img {
   border-radius: 50%;
@@ -26,4 +24,8 @@ img {
 .col firstcol {
   overflow: scroll;
   display: inline-flex;
+  width: 700px;
+}
+.secondcol {
+  width: 700px;
 }
