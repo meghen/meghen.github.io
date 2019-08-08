@@ -21,9 +21,6 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
-.firstcol {
-  vertical-align: text-top;
-}
-.secondcol {
-  vertical-align: text-top;
+h3 {
+  font-weight: bold
 }
