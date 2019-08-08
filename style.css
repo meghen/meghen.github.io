@@ -5,7 +5,7 @@
   background-color: black;
   height: 300px;
 }
-.img {
+img {
   border-radius: 50%;
   display: block;
   margin-left: auto;
@@ -17,7 +17,7 @@
   column-rule: 2px solid #cce5cc;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
 }
-.col ul {
+.col firstcol {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid-column;
