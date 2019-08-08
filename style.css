@@ -20,5 +20,10 @@ img {
   column-rule: 2px solid #cce5cc;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
-  padding: 0;
+}
+.firstcol {
+  vertical-align: text-top;
+}
+.secondcol {
+  vertical-align: text-top;
 }
