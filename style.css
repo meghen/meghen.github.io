@@ -22,7 +22,6 @@ img {
   vertical-align: text-top;
 }
 .firstcol {
-  overflow: scroll;
   display: inline-flex;
   width: 700px;
 }
