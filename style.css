@@ -24,6 +24,6 @@ img {
 h3 {
   font-weight: 700;
 }
-.firstcol {
+#firstcol {
   column-width: 300px;
 }
