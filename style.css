@@ -4,6 +4,8 @@
   text-align: center;
   background-color: black;
   height: 300px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 img {
   border-radius: 50%;
