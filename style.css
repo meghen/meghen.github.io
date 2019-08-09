@@ -21,7 +21,7 @@ img {
   float: left;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 5%;
 }
 .vl {
@@ -38,7 +38,7 @@ img {
   float: right;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
-  margin-right: 10%;
+  margin-right: 5%;
   margin-left: 5%;
 }
 h3 {
