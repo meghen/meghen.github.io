@@ -18,19 +18,19 @@ img {
 #body {
   margin-left: 5%;
   margin-right: 5%;
-  overflow-wrap: normal;
+  white-space: nowrap;
   height: 100%;
 }
 #firstcol {
   width: 300px;
-  height: 600px;
+  height: 100%;
   float: left;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
 .vl {
   border-left: 2px solid #cce5cc;
-  height: 700px;
+  height: 100%;
   position: absolute;
   left: 40%;
   margin-left: -3px;
@@ -38,7 +38,7 @@ img {
 }
 #secondcol {
   width: 700px;
-  height: 600px;
+  height: 100%;
   float: right;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
