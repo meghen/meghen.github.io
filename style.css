@@ -31,7 +31,7 @@ img {
 .vl {
   border-left: 2px solid #cce5cc;
   height: 100%;
-  position: static;
+  position: relative;
   left: 40%;
   margin-left: -3px;
   top: 440px;
