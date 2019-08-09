@@ -18,6 +18,8 @@ img {
 #body {
   margin-left: 5%;
   margin-right: 5%;
+  overflow-wrap: normal;
+  height: 100%;
 }
 #firstcol {
   width: 300px;
