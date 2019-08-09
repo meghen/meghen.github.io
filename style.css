@@ -15,14 +15,16 @@ img {
   margin-bottom: 10px;
   margin-top: -100px;
   }
+#body {
+  margin-left: 5%;
+  margin-right: 5%;
+}
 #firstcol {
   width: 300px;
   height: 600px;
   float: left;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
-  margin-left: 5%;
-  margin-right: 5%;
 }
 .vl {
   border-left: 2px solid #cce5cc;
@@ -38,8 +40,6 @@ img {
   float: right;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
-  margin-right: 5%;
-  margin-left: 5%;
 }
 h3 {
   font-weight: 700;
