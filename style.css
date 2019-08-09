@@ -33,7 +33,7 @@ img {
 #secondcol {
   width: 600px;
   height: 900px;
-  float: right;
+  float: left;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
