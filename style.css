@@ -31,9 +31,9 @@ img {
   top: 440px;
 }
 #secondcol {
-  width: 900px;
+  width: 600px;
   height: 600px;
-  float: center;
+  float: right;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
