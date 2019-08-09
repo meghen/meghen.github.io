@@ -22,6 +22,14 @@ img {
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
 }
+.vl {
+  border-left: 2px solid #cce5cc;
+  height: 600px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
 #secondcol {
   width: 600px;
   height: 600px;
