@@ -22,11 +22,12 @@ img {
   height: 100%;
 }
 #firstcol {
-  width: 300px;
+  width: 30%;
   height: 100%;
   float: left;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
+  overflow: visible;
 }
 .vl {
   border-left: 2px solid #cce5cc;
@@ -37,11 +38,12 @@ img {
   top: 440px;
 }
 #secondcol {
-  width: 700px;
+  width: 70%;
   height: 100%;
   float: right;
   font-family: Century Gothic, CenturyGothic, AppleGothic, monospace;
   vertical-align: text-top;
+  overflow: visible;
 }
 h3 {
   font-weight: 700;
